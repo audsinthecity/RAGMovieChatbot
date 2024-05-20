@@ -21,4 +21,4 @@ This project uses:
 - [Facebook AI Similarity Search (FAISS)](https://python.langchain.com/v0.1/docs/integrations/vectorstores/faiss/)
 
 ## Screenshot of Chainlit Deployment
-<img src='https://imgur.com/a/Jz4OgCd' title='Movie RAG Chatbot' width='' alt='Movie RAG Chatbot' />
+![Screenshot](https://github.com/audsinthecity/RAGMovieChatbot/blob/master/AIChatbot.png)
